@@ -57,9 +57,9 @@ pipeline {
 
 ### Задание 3 - 4
 
-Версионирование сразу сделал. 
-На второй машине в яндекс клауде установлен репозиторий Nexus. 
-Загрузка скомпилированного go - с помощью плагина nexusArtifactUploader
+Версионирование сразу сделал.' 
+На второй машине в яндекс клауде установлен репозиторий Nexus. '
+Загрузка скомпилированного go - с помощью плагина nexusArtifactUploader '
 
 
 Пайплайн:
@@ -110,10 +110,13 @@ pipeline {
 ```
 
 креды для доступа к nexus указал в Global credentials 
-![Название скриншота](https://github.com/Night-N/7-ci-cd/blob/main/img/artifactupload2.jpg)
+
+![](https://github.com/Night-N/7-ci-cd/blob/main/img/artifactupload2.jpg)
 
 сборка:
+
 ![](https://github.com/Night-N/7-ci-cd/blob/main/img/artifactupload1.jpg)
 
 в репозитории:
+
 ![](https://github.com/Night-N/7-ci-cd/blob/main/img/artifactupload3.jpg)
