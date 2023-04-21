@@ -4,6 +4,9 @@
 
 ### Задание 1
 
+Jenkins запущен на вм c Ubuntu в яндекс.клауд. 
+Установлены golang, docker, jenkins добавлен в группу docker. 
+
 jenkins go docker versions
 
 ![jenkins go docker versions](https://github.com/Night-N/ci-cd/blob/main/img/jenkins1.jpg)
