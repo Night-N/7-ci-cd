@@ -5,15 +5,19 @@
 ### Задание 1
 
 jenkins go docker versions
+
 ![jenkins go docker versions](https://github.com/Night-N/ci-cd/blob/main/img/jenkins1.jpg)
 
 Build success
+
 ![Build success](https://github.com/Night-N/ci-cd/blob/main/img/jenkins2.jpg)
 
 Shell commands
+
 ![Shell commands](https://github.com/Night-N/ci-cd/blob/main/img/jenkins3.jpg)
 
 Github source
+
 ![Github source](https://github.com/Night-N/ci-cd/blob/main/img/jenkins4.jpg)
 
 ---
